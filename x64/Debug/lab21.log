@@ -1,0 +1,5 @@
+﻿  lab21.cpp
+F:\aisd\lab2\lab21\lab21\lab21\Heap.hpp(52,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\aisd\lab2\lab21\lab21\lab21\Heap.hpp(53,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+F:\aisd\lab2\lab21\lab21\lab21\Heap.hpp(83,1): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  lab21.vcxproj -> F:\aisd\lab2\lab21\lab21\x64\Debug\lab21.exe
